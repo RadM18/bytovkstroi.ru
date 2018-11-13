@@ -1,0 +1,113 @@
+table {
+    border-collapse: separate;
+    border-spacing: 0;
+    margin-bottom: 20px;
+    width: 100%;
+    clear: both;
+    border: 1px solid #dfdfdf;
+    border-bottom: 0px;
+    border-right: 0px;
+}
+table tr:first-child td {
+    background: #115faf;
+    color: #FFF;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+td {
+    border-right: 1px solid #dfdfdf;
+    border-bottom: 1px solid #dfdfdf;
+    background: #f7f7f7;
+    font-size: 18px;
+    line-height: normal;
+    text-align: center;
+    padding: 13px 12px;
+    width: 33.3%;
+}
+tr:hover td {
+    background: rgba(17, 95, 175, 0.5);
+}
+@media (max-width:568px) {
+td {
+ 
+    font-size: 14px;
+ 
+}
+}
+
+@media (min-width:568px) and (max-width:767px) {
+
+.price-block .btn {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.price-block > div {
+    vertical-align: middle;
+    margin-right: 10px;
+}
+.news-title {
+ 
+    font-size: 14px;
+ 
+}
+
+.head-contacts .btn {
+    font-size: 10px;
+ 
+}
+.form-line-text span {
+    font-size: 40px;
+}
+.form-line-text {
+    font-size: 16px;
+ 
+}
+.project-thumb img,.product-thumb img, .spec-thumb img {
+    width: 100%;
+}
+.form-line-text {
+    margin-bottom: 10px;
+}
+.product-thumb {
+    margin-bottom:20px;
+}
+
+.btn.btn-inversed {
+ 
+ 
+    font-size: 14px;
+}
+.project-title {
+ 
+    font-size: 16px;
+ 
+}
+
+.social li {
+ 
+    margin-right: 4px;
+}
+.phone-line {
+    font-size: 12px;
+ 
+}
+.phone-img {
+ 
+    margin-right: 5px;
+}
+.spec-name {
+ 
+    font-size: 17px;
+ 
+}
+ 
+
+}
+.wpcf7-response-output.wpcf7-display-none.wpcf7-mail-sent-ok {
+    text-align: center;
+}
+.project-thumb img,.product-thumb img, .spec-thumb img {
+    width: 100%;}
+
+
+
